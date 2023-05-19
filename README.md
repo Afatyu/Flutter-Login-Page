@@ -1,7 +1,10 @@
-<h1 align="center">The Gorgeous Login</h1>
+<h1 align="center">UTS Flutter Login Page</h1>
 
 <h3 align="center">
-  A login page built with flutter inspired by a design found on Uplabs
+Nama        |  Ananda Fatah Anggara Yudha
+Kelas       |  TI.20.A.1
+NIM         |  312010186
+Halaman login yang dibuat dengan flutter yang terinspirasi oleh desain yang ditemukan di Uplabs
 </h3>
 
 Uplabs design        |  Flutter rendering
